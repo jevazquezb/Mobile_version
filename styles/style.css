@@ -2,17 +2,20 @@ body {
   background-color: #fff;
 }
 
+.flex {
+  display: flex;
+}
+
 .device-container {
   width: 100vw;
   height: 100vh;
-  display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .device-look {
   width: 375px;
-  height: 667px;
+  height: 90vh;
   border-radius: 10px;
   border-style: solid;
   border-width: 5px 5px 50px 5px;
@@ -20,7 +23,6 @@ body {
 }
 
 header {
-  display: flex;
   justify-content: space-between;
   align-items: center;
 }
@@ -29,7 +31,6 @@ header {
   width: 114px;
   height: 48px;
   margin-left: 12px;
-  display: flex;
   justify-content: center;
   align-items: center;
   text-decoration: none;
@@ -56,7 +57,6 @@ header {
 .menu-anchor {
   width: inherit;
   height: inherit;
-  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -64,7 +64,6 @@ header {
 .headline {
   width: 100%;
   padding-top: 64px;
-  display: flex;
   flex-direction: column;
   align-items: center;
   background-image: url("../images/background.png");
@@ -101,14 +100,12 @@ header {
 .social-media-icons {
   width: 170.17px;
   height: 20px;
-  display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 64px;
 }
 
 .info-button {
-  display: flex;
   justify-content: center;
   align-self: stretch;
   margin: 0 24px;
@@ -125,7 +122,6 @@ header {
   background-color: #fff;
   border: 1px solid #dfe1e6;
   border-radius: 32px;
-  display: flex;
   justify-content: center;
   align-items: center;
 }
