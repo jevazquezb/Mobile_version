@@ -1,10 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Mobile version skeleton
+# Mobile version: The middle section
 
-> We'll start by setting up our own portfolio. This will be the mobile presentation for recruiters. For the first segment of the project, I set up the mobile skeleton and added the headline section.
+> We continue setting up our own portfolio. So far, I have completed the "My recent works" and "About me" sections. This will be the mobile presentation for recruiters.
+
+<br>
 
 ![screenshot](./images/mobile_version_1.png)
+
+<br>
+
+![screenshot](./images/mobile_version_2.png)
+
+<br>
+
+![screenshot](./images/mobile_version_3.png)
 
 ## Built With
 
@@ -35,7 +45,7 @@ Go and click on the right green button with the "code" tag. Be sure to copy any 
 
 ### Step 4:
 
-Open the terminal in your computer. To do that you need to type in the search bar "cmd" for Windows or "terminal" if you are using Línux or macOS.
+Open the terminal in your computer. To do that, you need to type in the search bar "cmd" for Windows or "terminal" if you are using Línux or macOS.
 
 ### Step 5:
 
@@ -43,7 +53,7 @@ Go to the directory where you want to "pull" (download) the repo. If it doesn't 
 
 ### Step 6:
 
-Once your into your directory, type in the terminal: git clone https or git clone SSH, and then press enter. Example: git clone https://github.com/jevazquezb/Mobile_version.git
+Once you get into your directory, type in the terminal: git clone https or git clone SSH, and then press enter. Example: git clone https://github.com/jevazquezb/Mobile_version.git
 
 ### Step 7:
 
