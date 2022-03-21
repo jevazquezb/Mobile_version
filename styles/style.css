@@ -194,10 +194,10 @@ header {
   margin: 0 11px 29px 11px;
   justify-content: space-between;
   align-items: center;
-  align-self: stretch;
+  align-self: stretch;  
 }
 
-.cards-lang-button {
+.cards-lang-button {  
   display: inline-block;
   box-sizing: border-box;
   padding: 8px 12px;
@@ -211,6 +211,8 @@ header {
   letter-spacing: 0.03em;
   color: #3a4a42;
   text-decoration: none;
+  float:left;  
+  margin-right: 1%;
 }
 
 .access-button {
