@@ -332,3 +332,76 @@ header {
 .cv-feat-cont-margin {
   margin: 0 30px;
 }
+
+.form-container {
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('../images/form.png');
+  background-repeat: no-repeat;  
+  background-position: 100% 67%;
+}
+
+.form-text{  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #172B4D;
+  text-align: center;
+  padding: 0 6% 58px 6%;
+}
+
+.form {
+  width: 87%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box {
+  width: 100%;
+  margin-bottom: 24px;
+  width: 100%;
+  border: 1px solid #D0D9D4;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 15px 16px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.box-textarea {
+  height: 114px;
+  color: #091E42;
+}
+
+.form-btn {
+  border: none;
+  cursor: pointer;
+}
+
+.social-media-form {
+  margin-top: 44px;
+  margin-bottom: 19px;
+}
+
+.email {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #42526E;
+  margin-bottom: 290px;
+}
+
+.final-line {
+  border: 2px solid #000;
+  border-radius: 20px;
+  width: 35%;
+  margin-bottom: 8px;
+}
