@@ -2,7 +2,7 @@
 
 # Mobile version: The middle section
 
-> We continue setting up our own portfolio. So far, I have completed the "My recent works" and "About me" sections. This will be the mobile presentation for recruiters.
+> We finish our mobile portfolio by adding the contact form as a final section. This will be the mobile presentation for recruiters.
 
 <br>
 
@@ -15,6 +15,10 @@
 <br>
 
 ![screenshot](./images/mobile_version_3.png)
+
+<br>
+
+![screenshot](./images/mobile_version_4.png)
 
 ## Built With
 
